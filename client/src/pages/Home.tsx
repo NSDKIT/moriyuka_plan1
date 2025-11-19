@@ -83,7 +83,7 @@ export default function Home() {
             <img 
               src="/left.png" 
               alt="もりゆか" 
-              className="h-3/4 object-contain"
+              className="h-4/5 w-1/2 object-contain"
             />
           </div>
 
@@ -112,7 +112,7 @@ export default function Home() {
             <img 
               src="/right.png" 
               alt="もりゆか" 
-              className="h-3/4 object-contain"
+              className="h-4/5 w-1/2 object-contain"
             />
           </div>
         </div>
